@@ -2,12 +2,12 @@ import NewsList from "@/components/news-list";
 import { getLatestNews } from "@/lib/news";
 
 export default function Default() {
-    const latestNews = getLatestNews();
+  const latestNews = getLatestNews();
 
   return (
     <>
       <h2>Latest News Page</h2>
-      <NewsList news={latestNews}/>
+      <NewsList news={latestNews} />
     </>
   );
 }
