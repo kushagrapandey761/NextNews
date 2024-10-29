@@ -16,15 +16,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
+    "/archive/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/archive/layout.js"
+    ],
     "/archive/@latest/default": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/archive/@latest/default.js"
     ],
-    "/archive/layout": [
+    "/archive/@archive/[[...filter]]/error": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/archive/layout.js"
+      "static/chunks/app/archive/@archive/[[...filter]]/error.js"
     ],
     "/archive/@archive/[[...filter]]/page": [
       "static/chunks/webpack.js",
