@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/layout",{
+
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CNext%20js%5CNextNews%5Capp%5Cglobals.css&modules=D%3A%5CNext%20js%5CNextNews%5Ccomponents%5Cnav-link.js&modules=D%3A%5CNext%20js%5CNextNews%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CNext%20js%5CNextNews%5Capp%5Cglobals.css&modules=D%3A%5CNext%20js%5CNextNews%5Ccomponents%5Cnav-link.js&modules=D%3A%5CNext%20js%5CNextNews%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false! ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/globals.css */ \"(app-pages-browser)/./app/globals.css\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/nav-link.js */ \"(app-pages-browser)/./components/nav-link.js\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/link.js */ \"(app-pages-browser)/./node_modules/next/dist/client/link.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz1EJTNBJTVDTmV4dCUyMGpzJTVDTmV4dE5ld3MlNUNhcHAlNUNnbG9iYWxzLmNzcyZtb2R1bGVzPUQlM0ElNUNOZXh0JTIwanMlNUNOZXh0TmV3cyU1Q2NvbXBvbmVudHMlNUNuYXYtbGluay5qcyZtb2R1bGVzPUQlM0ElNUNOZXh0JTIwanMlNUNOZXh0TmV3cyU1Q25vZGVfbW9kdWxlcyU1Q25leHQlNUNkaXN0JTVDY2xpZW50JTVDbGluay5qcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLDRKQUE0RTtBQUM1RSwwS0FBbUY7QUFDbkYiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8yYmQyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiRDpcXFxcTmV4dCBqc1xcXFxOZXh0TmV3c1xcXFxhcHBcXFxcZ2xvYmFscy5jc3NcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkQ6XFxcXE5leHQganNcXFxcTmV4dE5ld3NcXFxcY29tcG9uZW50c1xcXFxuYXYtbGluay5qc1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiRDpcXFxcTmV4dCBqc1xcXFxOZXh0TmV3c1xcXFxub2RlX21vZHVsZXNcXFxcbmV4dFxcXFxkaXN0XFxcXGNsaWVudFxcXFxsaW5rLmpzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CNext%20js%5CNextNews%5Capp%5Cglobals.css&modules=D%3A%5CNext%20js%5CNextNews%5Ccomponents%5Cnav-link.js&modules=D%3A%5CNext%20js%5CNextNews%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!\n"));
+
+/***/ })
+
+});
